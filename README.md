@@ -1,2 +1,2 @@
 # testrepo
-foo
+bar
